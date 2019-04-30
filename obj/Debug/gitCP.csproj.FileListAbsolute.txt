@@ -1,0 +1,9 @@
+C:\Users\mi191328\source\repos\gitCP\gitCP\bin\Debug\gitCP.exe.config
+C:\Users\mi191328\source\repos\gitCP\gitCP\bin\Debug\gitCP.exe
+C:\Users\mi191328\source\repos\gitCP\gitCP\bin\Debug\gitCP.pdb
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.Form1.resources
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.Properties.Resources.resources
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.csproj.GenerateResource.cache
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.csproj.CoreCompileInputs.cache
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.exe
+C:\Users\mi191328\source\repos\gitCP\gitCP\obj\Debug\gitCP.pdb
